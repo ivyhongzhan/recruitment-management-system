@@ -25,13 +25,13 @@ class RecruitmentApiIntegrationTest {
  @DynamicPropertySource static void mysql(DynamicPropertyRegistry r){r.add("spring.datasource.url",MYSQL::getJdbcUrl);r.add("spring.datasource.username",MYSQL::getUsername);r.add("spring.datasource.password",MYSQL::getPassword);}
  @LocalServerPort int port; @Autowired TestRestTemplate http;
  String url(String p){return "http://localhost:"+port+p;}
- @Test void mysqlSeedAndHealthAreSynthetic(){Map<?,?> health=http.getForObject(url("/api/health"),Map.class);assertThat(health).containsEntry("dataset","synthetic_demo");Map<?,?> metrics=http.getForObject(url("/api/metrics"),Map.class);assertThat(metrics.get("jobs")).isEqualTo(4L);assertThat(metrics.get("applications")).isEqualTo(14L);}
+ @Test void mysqlSeedAndHealthAreSynthetic(){Map<String,Object> health=http.getForObject(url("/api/health"),Map.class);assertThat(health.get("dataset")).isEqualTo("synthetic_demo");Map<String,Object> metrics=http.getForObject(url("/api/metrics"),Map.class);assertThat(metrics.get("jobs")).isEqualTo(4);assertThat(metrics.get("applications")).isEqualTo(14);}
  @Test void applicationLifecycleIsValidatedPersistedAndAudited(){
   Map<String,Object> job=Map.of("title","Research Assistant","team","Methods","location","Remote");ResponseEntity<Map> createdJob=http.postForEntity(url("/api/jobs"),job,Map.class);assertThat(createdJob.getStatusCode()).isEqualTo(HttpStatus.CREATED);long jobId=((Number)createdJob.getBody().get("id")).longValue();
   Map<String,Object> body=Map.of("full_name","Pat Example","email","pat@example.test","job_id",jobId);ResponseEntity<Map> created=http.postForEntity(url("/api/applications"),body,Map.class);assertThat(created.getStatusCode()).isEqualTo(HttpStatus.CREATED);long id=((Number)created.getBody().get("id")).longValue();
   ResponseEntity<Map> invalid=http.exchange(url("/api/applications/"+id+"/stage"),HttpMethod.PATCH,new HttpEntity<>(Map.of("stage","offer","expected_version",1)),Map.class);assertThat(invalid.getStatusCode()).isEqualTo(HttpStatus.CONFLICT);
-  Map<String,Object> valid=Map.of("stage","screening","expected_version",1);Map<?,?> moved=http.patchForObject(url("/api/applications/"+id+"/stage"),valid,Map.class);assertThat(moved).containsEntry("version",2);
-  Map<?,?> detail=http.getForObject(url("/api/applications/"+id),Map.class);assertThat(detail).containsEntry("stage","screening");assertThat((List<?>)detail.get("history")).hasSize(2);
+  Map<String,Object> valid=Map.of("stage","screening","expected_version",1);Map<String,Object> moved=http.patchForObject(url("/api/applications/"+id+"/stage"),valid,Map.class);assertThat(moved.get("version")).isEqualTo(2);
+  Map<String,Object> detail=http.getForObject(url("/api/applications/"+id),Map.class);assertThat(detail.get("stage")).isEqualTo("screening");assertThat((List<?>)detail.get("history")).hasSize(2);
   ResponseEntity<Map> duplicate=http.postForEntity(url("/api/applications"),body,Map.class);assertThat(duplicate.getStatusCode()).isEqualTo(HttpStatus.CONFLICT);
   assertThat(http.getForObject(url("/api/audit"),List.class)).isNotEmpty();
  }
