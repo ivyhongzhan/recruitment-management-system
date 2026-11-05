@@ -1,0 +1,16 @@
+server:
+  address: 0.0.0.0
+  port: 8000
+spring:
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:mysql://localhost:3306/recruitment?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC}
+    username: ${SPRING_DATASOURCE_USERNAME:recruitment}
+    password: ${SPRING_DATASOURCE_PASSWORD:synthetic_demo_only}
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
+rms:
+  seed-demo: ${RMS_SEED_DEMO:true}

@@ -1,0 +1,27 @@
+services:
+  mysql:
+    image: mysql:8.4
+    environment:
+      MYSQL_DATABASE: recruitment
+      MYSQL_USER: recruitment
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD:-synthetic_demo_only}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD:-local_root_only}
+    volumes: [mysql-data:/var/lib/mysql]
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  app:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql:3306/recruitment?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+      SPRING_DATASOURCE_USERNAME: recruitment
+      SPRING_DATASOURCE_PASSWORD: ${MYSQL_PASSWORD:-synthetic_demo_only}
+      RMS_SEED_DEMO: ${RMS_SEED_DEMO:-true}
+    depends_on:
+      mysql:
+        condition: service_healthy
+volumes:
+  mysql-data:
