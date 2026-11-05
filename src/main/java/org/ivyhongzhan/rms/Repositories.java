@@ -11,7 +11,7 @@ interface JobRepository extends JpaRepository<Job,Long> {
 interface CandidateRepository extends JpaRepository<Candidate,Long> { Optional<Candidate> findByEmailIgnoreCase(String email); }
 interface ApplicationRepository extends JpaRepository<ApplicationRecord,Long> {
  boolean existsByCandidateIdAndJobId(Long candidateId,Long jobId);
- @Query("select a from ApplicationRecord a join fetch a.candidate c join fetch a.job j where (:jobId is null or j.id=:jobId) and (:stage is null or a.stage=:stage) and (:search='' or lower(c.fullName) like lower(concat('%',:search,'%')) or lower(j.title) like lower(concat('%',:search,'%'))) order by a.updatedAt desc,a.id desc")
+ @Query("select a from ApplicationRecord a join fetch a.candidate c join fetch a.job j where (:jobId is null or j.id=:jobId) and (:stage is null or a.stage=:stage) and (:search='' or locate(lower(:search),lower(c.fullName))>0 or locate(lower(:search),lower(j.title))>0) order by a.updatedAt desc,a.id desc")
  List<ApplicationRecord> search(@Param("search") String search,@Param("jobId") Long jobId,@Param("stage") Stage stage);
  @Query("select a from ApplicationRecord a join fetch a.candidate join fetch a.job where a.id=:id") Optional<ApplicationRecord> findDetailed(@Param("id") Long id);
  long countByStage(Stage stage);

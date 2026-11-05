@@ -55,6 +55,8 @@ mvn verify
 
 `RecruitmentApiIntegrationTest` exercises seeded synthetic data, job/application creation, closed-job behavior, search, valid/invalid transitions, optimistic version conflicts, scoped histories, duplicate prevention, and audit persistence against real MySQL 8.4. Locally the test uses Testcontainers; GitHub Actions runs the same test against its MySQL service container.
 
+**Verified on GitHub Actions:** [run 42067862409](https://github.com/ivyhongzhan/recruitment-management-system/actions/runs/42067862409) — `mvn verify` passed with **5 tests, 0 failures, 0 errors, 0 skipped** on MySQL 8.4. A second CI smoke test wrote a job, restarted the Spring Boot process, and read the same MySQL record back successfully. The run also checked the served frontend and JavaScript syntax.
+
 ## Migration baseline and verification
 
 The supplied FastAPI/SQLite source is retained under `legacy-fastapi/` and `README_FASTAPI_BASELINE.md`, separate from the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The original UI files are copied unchanged to `src/main/resources/static/`; the UX screenshots and portfolio pages are retained.

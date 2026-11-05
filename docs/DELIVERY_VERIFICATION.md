@@ -13,8 +13,10 @@
 - Full supplied FastAPI application, tests, launcher, and requirements retained under `legacy-fastapi/`.
 - Original static UI copied to Spring Boot's `src/main/resources/static/` and served same-origin.
 - CI initially found and drove fixes for Java compilation errors. The runner's Docker socket uses unsupported API 1.32, so CI now supplies a MySQL 8.4 service container and the same integration test class switches to it when configured; local execution can use Testcontainers.
-- Java build/MySQL/API verification is pending the current GitHub Actions run. No passing result is claimed until that run completes successfully.
-- GitHub publication and personal-site/CV updates are pending successful local/CI verification and connected GitHub access.
+- GitHub Actions run [42067862409](https://github.com/ivyhongzhan/recruitment-management-system/actions/runs/42067862409) passed: 5 Java/MySQL integration tests, 0 failures, 0 errors, 0 skipped; Flyway migrated MySQL 8.4 and Spring Boot started successfully.
+- CI restart smoke test created a job through REST, stopped/restarted Spring Boot against the same MySQL service, and read the created job back successfully.
+- Repository is public at `https://github.com/ivyhongzhan/recruitment-management-system`; README and CI evidence are published.
+- The local website worktree update is being prepared separately from the dirty website checkout. CV files were excluded from this task.
 
 ## Synthetic-data check
 
