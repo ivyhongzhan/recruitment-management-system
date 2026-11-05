@@ -13,16 +13,17 @@ import org.testcontainers.junit.jupiter.Container;
 import org.testcontainers.junit.jupiter.Testcontainers;
 import org.springframework.test.context.jdbc.Sql;
 import org.springframework.test.context.jdbc.Sql.ExecutionPhase;
+import org.springframework.core.env.MapPropertySource;
 import static org.assertj.core.api.Assertions.assertThat;
 import java.util.*;
 
-@Testcontainers
+@Testcontainers(disabledWithoutDocker=true)
 @SpringBootTest(webEnvironment=SpringBootTest.WebEnvironment.RANDOM_PORT,properties="rms.seed-demo=true")
 @Sql(statements={"DELETE FROM audit_events","DELETE FROM applications","DELETE FROM candidates","DELETE FROM jobs"},executionPhase=ExecutionPhase.BEFORE_TEST_METHOD)
 @Sql(statements={"DELETE FROM audit_events","DELETE FROM applications","DELETE FROM candidates","DELETE FROM jobs"},executionPhase=ExecutionPhase.AFTER_TEST_METHOD)
 class RecruitmentApiIntegrationTest {
- @Container static final MySQLContainer<?> MYSQL=new MySQLContainer<>("mysql:8.4").withDatabaseName("rms_test").withUsername("test").withPassword("test");
- @DynamicPropertySource static void mysql(DynamicPropertyRegistry r){r.add("spring.datasource.url",MYSQL::getJdbcUrl);r.add("spring.datasource.username",MYSQL::getUsername);r.add("spring.datasource.password",MYSQL::getPassword);}
+ @Container static final MySQLContainer<?> MYSQL=System.getenv("RMS_TEST_MYSQL_URL")==null?new MySQLContainer<>("mysql:8.4").withDatabaseName("rms_test").withUsername("test").withPassword("test"):null;
+ @DynamicPropertySource static void mysql(DynamicPropertyRegistry r){String url=System.getenv("RMS_TEST_MYSQL_URL");r.add("spring.datasource.url",()->url!=null?url:MYSQL.getJdbcUrl());r.add("spring.datasource.username",()->System.getenv().getOrDefault("RMS_TEST_MYSQL_USERNAME",MYSQL==null?"test":MYSQL.getUsername()));r.add("spring.datasource.password",()->System.getenv().getOrDefault("RMS_TEST_MYSQL_PASSWORD",MYSQL==null?"test":MYSQL.getPassword()));}
  @LocalServerPort int port; @Autowired TestRestTemplate http;
  String url(String p){return "http://localhost:"+port+p;}
  @Test void mysqlSeedAndHealthAreSynthetic(){Map<String,Object> health=http.getForObject(url("/api/health"),Map.class);assertThat(health.get("dataset")).isEqualTo("synthetic_demo");Map<String,Object> metrics=http.getForObject(url("/api/metrics"),Map.class);assertThat(metrics.get("jobs")).isEqualTo(4);assertThat(metrics.get("applications")).isEqualTo(14);}

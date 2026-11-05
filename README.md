@@ -53,7 +53,7 @@ Requires Java 21, Maven 3.9+, and Docker for Testcontainers:
 mvn verify
 ```
 
-`RecruitmentApiIntegrationTest` starts a real MySQL 8.4 container and exercises seeded synthetic data, job/application creation, closed-job behavior, search, valid/invalid transitions, optimistic version conflicts, scoped histories, duplicate prevention, and audit persistence. CI runs the same command on GitHub Actions.
+`RecruitmentApiIntegrationTest` exercises seeded synthetic data, job/application creation, closed-job behavior, search, valid/invalid transitions, optimistic version conflicts, scoped histories, duplicate prevention, and audit persistence against real MySQL 8.4. Locally the test uses Testcontainers; GitHub Actions runs the same test against its MySQL service container.
 
 ## Migration baseline and verification
 

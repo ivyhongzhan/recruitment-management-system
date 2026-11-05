@@ -12,7 +12,8 @@
 - Source implementation, Docker Compose, Flyway migration, and MySQL Testcontainers integration tests added.
 - Full supplied FastAPI application, tests, launcher, and requirements retained under `legacy-fastapi/`.
 - Original static UI copied to Spring Boot's `src/main/resources/static/` and served same-origin.
-- Local execution status: **not run**. The execution machine had no Java runtime, Maven executable, or Docker command available at implementation time. Therefore Java compilation, MySQL startup, Testcontainers tests, and real frontend-to-backend verification are not claimed as passing.
+- CI initially found and drove fixes for Java compilation errors. The runner's Docker socket uses unsupported API 1.32, so CI now supplies a MySQL 8.4 service container and the same integration test class switches to it when configured; local execution can use Testcontainers.
+- Java build/MySQL/API verification is pending the current GitHub Actions run. No passing result is claimed until that run completes successfully.
 - GitHub publication and personal-site/CV updates are pending successful local/CI verification and connected GitHub access.
 
 ## Synthetic-data check
