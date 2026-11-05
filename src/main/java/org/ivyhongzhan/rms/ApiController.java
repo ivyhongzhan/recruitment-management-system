@@ -2,7 +2,6 @@ package org.ivyhongzhan.rms;
 
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.*;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.transaction.annotation.Transactional;
@@ -10,7 +9,6 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 import java.time.Instant;
 import java.util.*;
-import java.util.regex.Pattern;
 
 record JobInput(@NotBlank @Size(min=2,max=100) String title,@NotBlank @Size(min=2,max=80) String team,@NotBlank @Size(min=2,max=100) String location) {}
 record JobStatusInput(@Pattern(regexp="open|closed") String status) {}

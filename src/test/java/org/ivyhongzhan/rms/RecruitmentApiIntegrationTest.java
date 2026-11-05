@@ -11,11 +11,15 @@ import org.springframework.test.context.DynamicPropertySource;
 import org.testcontainers.containers.MySQLContainer;
 import org.testcontainers.junit.jupiter.Container;
 import org.testcontainers.junit.jupiter.Testcontainers;
+import org.springframework.test.context.jdbc.Sql;
+import org.springframework.test.context.jdbc.Sql.ExecutionPhase;
 import static org.assertj.core.api.Assertions.assertThat;
 import java.util.*;
 
 @Testcontainers
 @SpringBootTest(webEnvironment=SpringBootTest.WebEnvironment.RANDOM_PORT,properties="rms.seed-demo=true")
+@Sql(statements={"DELETE FROM audit_events","DELETE FROM applications","DELETE FROM candidates","DELETE FROM jobs"},executionPhase=ExecutionPhase.BEFORE_TEST_METHOD)
+@Sql(statements={"DELETE FROM audit_events","DELETE FROM applications","DELETE FROM candidates","DELETE FROM jobs"},executionPhase=ExecutionPhase.AFTER_TEST_METHOD)
 class RecruitmentApiIntegrationTest {
  @Container static final MySQLContainer<?> MYSQL=new MySQLContainer<>("mysql:8.4").withDatabaseName("rms_test").withUsername("test").withPassword("test");
  @DynamicPropertySource static void mysql(DynamicPropertyRegistry r){r.add("spring.datasource.url",MYSQL::getJdbcUrl);r.add("spring.datasource.username",MYSQL::getUsername);r.add("spring.datasource.password",MYSQL::getPassword);}
@@ -32,4 +36,6 @@ class RecruitmentApiIntegrationTest {
   assertThat(http.getForObject(url("/api/audit"),List.class)).isNotEmpty();
  }
  @Test void searchAndJobClosingWork(){ResponseEntity<Map> close=http.exchange(url("/api/jobs/1/status"),HttpMethod.PATCH,new HttpEntity<>(Map.of("status","closed")),Map.class);assertThat(close.getStatusCode()).isEqualTo(HttpStatus.OK);ResponseEntity<Map> rejected=http.postForEntity(url("/api/applications"),Map.of("full_name","Another Person","email","another@example.test","job_id",1),Map.class);assertThat(rejected.getStatusCode()).isEqualTo(HttpStatus.CONFLICT);assertThat(http.getForObject(url("/api/applications?search=alex"),List.class)).hasSize(1);}
+ @Test void frontendAndApiAreServedByTheRunningApplication(){ResponseEntity<String> page=http.getForEntity(url("/"),String.class);assertThat(page.getStatusCode()).isEqualTo(HttpStatus.OK);assertThat(page.getBody()).contains("Candidate pipeline");assertThat(http.getForEntity(url("/static/app.js"),String.class).getStatusCode()).isEqualTo(HttpStatus.OK);assertThat(http.getForEntity(url("/portfolio/undergraduate.html"),String.class).getStatusCode()).isEqualTo(HttpStatus.OK);assertThat(http.getForEntity(url("/api/jobs"),List.class).getStatusCode()).isEqualTo(HttpStatus.OK);}
+ @Test void inputValidationAndUnknownResourcesReturnExpectedStatuses(){ResponseEntity<Map> badJob=http.postForEntity(url("/api/jobs"),Map.of("title","x","team","Q","location","N"),Map.class);assertThat(badJob.getStatusCode()).isEqualTo(HttpStatus.BAD_REQUEST);ResponseEntity<Map> badEmail=http.postForEntity(url("/api/applications"),Map.of("full_name","Bad Email","email","not-an-email","job_id",1),Map.class);assertThat(badEmail.getStatusCode()).isEqualTo(HttpStatus.BAD_REQUEST);ResponseEntity<Map> missing=http.getForEntity(url("/api/applications/999999"),Map.class);assertThat(missing.getStatusCode()).isEqualTo(HttpStatus.NOT_FOUND);}
 }
