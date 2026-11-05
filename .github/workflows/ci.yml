@@ -6,6 +6,8 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    env:
+      DOCKER_API_VERSION: '1.41'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
