@@ -34,5 +34,12 @@ jobs:
           cache: maven
       - name: Verify application and MySQL integration tests
         run: mvn -B verify -Dtestcontainers.disabled=true
+      - name: Verify MySQL data survives application restart
+        env:
+          SPRING_DATASOURCE_URL: jdbc:mysql://127.0.0.1:3306/rms_test?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+          SPRING_DATASOURCE_USERNAME: test
+          SPRING_DATASOURCE_PASSWORD: test
+          RMS_SEED_DEMO: 'false'
+        run: bash scripts/verify-restart-persistence.sh
       - name: Check carried-forward browser script syntax
         run: node --check src/main/resources/static/app.js
