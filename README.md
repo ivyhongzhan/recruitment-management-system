@@ -55,7 +55,7 @@ mvn verify
 
 `RecruitmentApiIntegrationTest` exercises seeded synthetic data, job/application creation, closed-job behavior, search, valid/invalid transitions, optimistic version conflicts, scoped histories, duplicate prevention, and audit persistence against real MySQL 8.4. Locally the test uses Testcontainers; GitHub Actions runs the same test against its MySQL service container.
 
-**Verified on GitHub Actions:** [run 42067862409](https://github.com/ivyhongzhan/recruitment-management-system/actions/runs/42067862409) — `mvn verify` passed with **5 tests, 0 failures, 0 errors, 0 skipped** on MySQL 8.4. A second CI smoke test wrote a job, restarted the Spring Boot process, and read the same MySQL record back successfully. The run also checked the served frontend and JavaScript syntax.
+**Verified on GitHub Actions:** [run 42068376340](https://github.com/ivyhongzhan/recruitment-management-system/actions/runs/42068376340) — `mvn verify` passed with **5 tests, 0 failures, 0 errors, 0 skipped** on MySQL 8.4. The tests exercise all six stages, rejection, duplicate/case-insensitive candidate handling, literal wildcard search, closed/reopened jobs, validation, audit history and HTTP frontend/API serving. A CI smoke test wrote a job, restarted the Spring Boot process, and read the same MySQL record back successfully. JavaScript syntax also passed.
 
 ## Migration baseline and verification
 
