@@ -57,7 +57,7 @@ mvn verify
 
 ## Migration baseline and verification
 
-The supplied FastAPI/SQLite source is retained as `README_FASTAPI_BASELINE.md` plus the uploaded source archive outside the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The original UI files are copied unchanged to `src/main/resources/static/`; the UX screenshots and portfolio pages are retained.
+The supplied FastAPI/SQLite source is retained under `legacy-fastapi/` and `README_FASTAPI_BASELINE.md`, separate from the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The original UI files are copied unchanged to `src/main/resources/static/`; the UX screenshots and portfolio pages are retained.
 
 The online portfolio Demo is a separate static GitHub Pages artifact. Its interactions use browser-local state that resets on reload; it is **not connected to this MySQL database** and is not a cloud-backed deployment. The public Demo is a UI preview only until it is deliberately connected to a deployed API.
 
@@ -71,5 +71,6 @@ The undergraduate project topic was a 2021 BEng graduation design. The current J
 - `src/main/resources/db/migration`: Flyway schema
 - `src/main/resources/static`: carried-forward recruitment UI
 - `src/test/java`: MySQL Testcontainers integration tests
+- `legacy-fastapi/`: retained pre-migration application and tests
 - `portfolio/`: supplied three-direction research portfolio pages
 - `docs/screenshots/`: supplied UX-reviewed UI screenshots

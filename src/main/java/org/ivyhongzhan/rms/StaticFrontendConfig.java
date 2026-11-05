@@ -7,6 +7,6 @@ import org.springframework.web.servlet.config.annotation.*;
 class StaticFrontendConfig implements WebMvcConfigurer {
     @Override public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry.addResourceHandler("/static/**").addResourceLocations("classpath:/static/");
-        registry.addResourceHandler("/portfolio/**").addResourceLocations("classpath:/portfolio/");
+        registry.addResourceHandler("/portfolio/**").addResourceLocations("classpath:/static/portfolio/");
     }
 }
