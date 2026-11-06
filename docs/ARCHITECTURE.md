@@ -21,3 +21,7 @@ The supplied `index.html`, `app.js`, `styles.css`, and `polish.css` are carried 
 ## Limitations
 
 No authentication, authorization, production privacy/security controls, public API deployment, or real-applicant support is provided. Synthetic seed data uses `.example.test` addresses. The hosted static portfolio Demo is independent and does not connect to the MySQL instance in this repository.
+
+## Event history limits
+
+See the README evaluation and event-history boundaries. The `audit_events` name denotes transactional operation events; no authenticated actor, tamper evidence or full security audit is provided.

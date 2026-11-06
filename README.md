@@ -29,7 +29,7 @@ The static HTML/CSS/JavaScript frontend is served by Spring Boot. API paths and 
 | Applications | `GET/POST /api/applications`, `GET /api/applications/{id}`, `PATCH /api/applications/{id}/stage` |
 | Audit | `GET /api/audit?limit=40` |
 
-Filtering accepts `search`, `job_id`, and `stage`. The workflow has six stages: `applied → screening → interview → offer → hired`, with `rejected` allowed from every active stage. Stage updates require `expected_version`; stale requests and invalid transitions return HTTP 409. Email is normalized case-insensitively; a candidate can apply to multiple jobs, but duplicate applications to one job are rejected. A closed job accepts no new applications. Accepted job/application changes create audit records in the same transaction.
+Filtering accepts `search`, `job_id`, and `stage`. The workflow has six stages: `applied → screening → interview → offer → hired`, with `rejected` allowed from every active stage. Stage updates require `expected_version`; stale requests and invalid transitions return HTTP 409. Email is normalized case-insensitively; a candidate can apply to multiple jobs, but duplicate applications to one job are rejected. A closed job accepts no new applications. Accepted job/application changes create operation-event records in the same transaction.
 
 ## Workflow rules and scope
 
@@ -91,3 +91,11 @@ The undergraduate project topic was a 2021 BEng graduation design. The current J
 - `legacy-fastapi/`: retained pre-migration application and tests
 - `portfolio/`: supplied three-direction research portfolio pages
 - `docs/screenshots/`: supplied UX-reviewed UI screenshots
+
+## Evaluation and event-history boundaries
+
+The [formative evaluation protocol](docs/FORMATIVE_EVALUATION.md) provides task prompts, observation criteria, consent/data-handling preparation and blank recording templates. It has not been conducted; no usability or efficiency improvement is established.
+
+The API path `/api/audit` and database table `audit_events` are retained for compatibility. They provide **operation-event history**, not a complete accountability audit. Records contain event/object identifiers, time and state changes, but no authenticated actor identity, role or reason for a decision. They are ordinary database records, not append-only or tamper-evident evidence. Transactional persistence establishes that an accepted change and its event are stored together; it does not establish who acted or whether they were authorized. Rejected requests are not a comprehensive security log.
+
+Before a shared deployment, authentication, role authorization and server-derived actor identity are priorities, followed by explicit event semantics, access/retention controls and concurrency/failure tests. These capabilities are not implemented by the present documentation update.

@@ -1,3 +1,5 @@
+> Historical FastAPI/SQLite baseline document. For the current Java/MySQL architecture see [ARCHITECTURE.md](ARCHITECTURE.md); for the current unexecuted evaluation plan see [FORMATIVE_EVALUATION.md](FORMATIVE_EVALUATION.md). Historical audit terminology does not imply actor attribution or tamper evidence.
+
 # Recruitment Management System — UX / product review
 
 **Review date:** 5 November 2026  
