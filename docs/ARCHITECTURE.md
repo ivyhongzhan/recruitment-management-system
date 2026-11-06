@@ -2,7 +2,7 @@
 
 ## Before migration
 
-The uploaded project used FastAPI routes in `app/main.py`, direct SQLite sessions/schema in `app/db.py`, and same-origin HTML/CSS/JavaScript under `app/static/`. It modeled jobs, candidates, applications, and audit events. Applications moved through six controlled stages with a version check. Its test suite passed 15/15 on Python 3.14 before migration.
+The FastAPI/SQLite baseline used FastAPI routes in `app/main.py`, direct SQLite sessions/schema in `app/db.py`, and same-origin HTML/CSS/JavaScript under `app/static/`. It modeled jobs, candidates, applications, and audit events. Applications moved through six controlled stages with a version check. Its test suite passed 15/15 on Python 3.14 before migration.
 
 ## Current implementation
 
@@ -16,7 +16,7 @@ Creation and transitions validate inputs and workflow rules before commit. The e
 
 ## UX preservation
 
-The supplied `index.html`, `app.js`, `styles.css`, and `polish.css` are carried into Spring's static resources without redesign. Existing screenshots are retained as supplied UX review artifacts.
+The HTML, JavaScript, and styles are retained in Spring’s static resources. Existing screenshots document the earlier interface review.
 
 ## Limitations
 

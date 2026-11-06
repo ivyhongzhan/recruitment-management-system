@@ -16,7 +16,6 @@
 - GitHub Actions run [42068376340](https://github.com/ivyhongzhan/recruitment-management-system/actions/runs/42068376340) passed: 5 Java/MySQL integration tests, 0 failures, 0 errors, 0 skipped; Flyway migrated MySQL 8.4 and Spring Boot started successfully.
 - CI restart smoke test created a job through REST, stopped/restarted Spring Boot against the same MySQL service, and read the created job back successfully (`PASS: job 8 persisted in MySQL across Spring Boot restart`).
 - Repository is public at `https://github.com/ivyhongzhan/recruitment-management-system`; README and CI evidence are published.
-- The website case-page update is prepared in a separate worktree based on the latest remote main; the dirty local website checkout remains untouched. CV files and links were excluded from this task.
 
 ## Synthetic-data check
 

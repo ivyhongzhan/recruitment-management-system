@@ -4,7 +4,7 @@
 
 **Review date:** 5 November 2026  
 **Scope:** 2026 demonstration implementation and its PhD portfolio presentation, not the unavailable original 2021 thesis source.  
-**Verdict:** The original MVP demonstrated state management and persistence, but the interface and case-study entry point underexplained the system's value. The revised version is a stronger portfolio artifact; its effect on PhD admission or actual user performance has not been measured.
+**Verdict:** The original MVP demonstrated state management and persistence, but the interface and case-study entry point underexplained the system's value. The revised interface adds a guided tour, a stage board, and application history. Its effect on user performance has not been evaluated.
 
 ## Evidence-based review and implemented responses
 
@@ -48,7 +48,6 @@
 - Formal accessibility review including screen reader, zoom, contrast, dialogs, and meaningful error announcements.
 - Authentication/roles, rate limits, privacy safeguards, CSRF and operational security if expanding beyond local synthetic demo.
 - An HCI task study is needed before claiming effectiveness or design implications. Candidate artifacts without empirically derived outcomes are **research prototypes**, not research findings.
-- No external admission advisor/PhD professor evaluation has been performed; **admission benefit cannot be guaranteed**.
 
 ## Proposed HCI evaluation (not conducted)
 

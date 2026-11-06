@@ -1,13 +1,15 @@
+> **Historical FastAPI/SQLite baseline.** For the current Java/MySQL application, follow the [main README](README.md). To run the Python baseline, change to `legacy-fastapi/` before using the commands below. The 2026 reconstruction has no new participant study; the original 2021 capstone included think-aloud testing with 8 participants.
+
 # Recruitment Management System
 
-**An interactive research-portfolio web application for recruitment workflows.**  
+**An interactive research-portfolio web application for recruitment workflows.**<br>
 Current implementation: **2026** · Undergraduate thesis topic explored: **2021**.
 
 > **Synthetic demonstration:** Initial job titles, candidate names, emails, counts and pipeline statuses are fictional. They are not actual recruitment records, research observations or evidence of hiring outcomes. Use fictional records when experimenting with the interface.
 
 ## Start here — reviewer-friendly tour
 
-**[90-second reviewer guide](REVIEWER_START_HERE.md)** · **[Design decisions and UX review](docs/UX_REVIEW_2026.md)** · **[System case study](portfolio/undergraduate.html)**
+**[Systems case study and walkthrough](portfolio/undergraduate.html)** · **[Design decisions and UX review](docs/UX_REVIEW_2026.md)** · **[System case study](portfolio/undergraduate.html)**
 
 ![Offline preview of the recruitment dashboard with synthetic candidate records](docs/screenshots/overview.webp)
 
@@ -92,7 +94,7 @@ The `portfolio/` directory is a **three-project, English-language research portf
 - **GenAI trust case study:** `http://127.0.0.1:8000/portfolio/genai.html`
 - **Interactive recruitment application:** `http://127.0.0.1:8000/`
 
-The static `portfolio/index.html` can also be opened directly to preview the case studies without starting Python; the recruitment application's interactive features **require** the server. The MSc study uses the available CV and historical research description, not recovered interview transcripts, a recovered final dissertation, or fabricated algorithms. See `docs/master_dissertation/METHODS_AND_EVIDENCE.md` and the blank qualitative codebook template. The portfolio does not modify the separately hosted research repository.
+The static `portfolio/index.html` can also be opened directly to preview the case studies without starting Python; the recruitment application's interactive features **require** the server. The MSc case study describes my 2023 interview research; participant materials and the final dissertation are not distributed here. See `docs/master_dissertation/METHODS_AND_EVIDENCE.md` and the blank qualitative codebook template. The portfolio does not modify the separately hosted research repository.
 
 ## Connection to three doctoral research directions
 
@@ -127,7 +129,7 @@ docs/                 Architecture, UX review, offline UI previews and follow-up
 
 - Initial records are invented and use reserved `.test` email domains. They are not from the 2021 thesis, employers, participants, or public Reddit data.
 - The current implementation has **no login/authorization, sensitive-data safeguards or verified compliance**; use only fictional information.
-- This version includes no historical thesis files or claims of completed user research.
+- This 2026 baseline includes no historical thesis files and has no new participant study; the 2021 capstone included testing with 8 participants.
 - A public-use license has not been selected yet. Do not assume permission to reuse third-party historical project materials.
 
 ## Status

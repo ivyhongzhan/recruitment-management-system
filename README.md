@@ -1,6 +1,6 @@
 # Recruitment Management System
 
-**2026 implementation: Java 21 + Spring Boot + Spring Data JPA + MySQL 8.4.** The browser UI and interaction design are carried forward from the supplied FastAPI project; the REST backend has been migrated and keeps the existing `/api/*` contract. The uploaded Python project remains available in the source archive and is recorded as the migration baseline.
+**2026 implementation: Java 21 + Spring Boot + Spring Data JPA + MySQL 8.4.** I retained the browser interface and interaction design from the FastAPI implementation while migrating the REST backend to Spring Boot and preserving the `/api/*` contract. The Python baseline is in `legacy-fastapi/`.
 
 This project is a demonstration, not a production ATS. All seeded names, emails, positions, counts, and activity are fictional synthetic records. Do not enter real applicant information: authentication and production privacy controls are not included.
 
@@ -74,13 +74,15 @@ mvn verify
 
 ## Migration baseline and verification
 
-The supplied FastAPI/SQLite source is retained under `legacy-fastapi/` and `README_FASTAPI_BASELINE.md`, separate from the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The original UI files are copied unchanged to `src/main/resources/static/`; the UX screenshots and portfolio pages are retained.
+The FastAPI/SQLite baseline is retained under `legacy-fastapi/` and `README_FASTAPI_BASELINE.md`, separate from the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The browser interface and interaction behavior are retained in `src/main/resources/static/`, alongside the earlier UX screenshots and portfolio pages.
 
-The online portfolio Demo is a separate static GitHub Pages artifact. Its interactions persist in browser localStorage until reset or cleared; it is **not connected to this MySQL database** and is not a cloud-backed deployment. The public Demo is a UI preview only until it is deliberately connected to a deployed API.
+The online portfolio Demo is a separate static GitHub Pages artifact. Its interactions persist in browser localStorage until reset or cleared; it is **not connected to this MySQL database** and is not a cloud-backed deployment.
 
-## Academic and project context
+## Original capstone and 2026 reconstruction
 
-The undergraduate project topic was a 2021 BEng graduation design. The current Java/Spring Boot/MySQL implementation is a new 2026 reconstruction and must not be described as recovered historical source. The supplied portfolio HTML is preserved in `portfolio/`; no user study or usability outcome is claimed.
+For my **2021 BEng capstone**, I designed and implemented job posting, application tracking, and candidate management with **Spring Boot and MySQL**. I conducted **think-aloud usability testing with 8 participants** and used the findings to revise the interface.
+
+The code in this repository is a **2026 reconstruction**, not recovered thesis source. The current interface and backend have engineering tests, but no new participant study has been conducted for this version. The case studies are in `portfolio/`.
 
 ## Repository contents
 
@@ -89,13 +91,13 @@ The undergraduate project topic was a 2021 BEng graduation design. The current J
 - `src/main/resources/static`: carried-forward recruitment UI
 - `src/test/java`: MySQL Testcontainers integration tests
 - `legacy-fastapi/`: retained pre-migration application and tests
-- `portfolio/`: supplied three-direction research portfolio pages
-- `docs/screenshots/`: supplied UX-reviewed UI screenshots
+- `portfolio/`: research case studies
+- `docs/screenshots/`: interface screenshots from the earlier UX review
 
 ## Evaluation and event-history boundaries
 
 The [formative evaluation protocol](docs/FORMATIVE_EVALUATION.md) provides task prompts, observation criteria, consent/data-handling preparation and blank recording templates. It has not been conducted; no usability or efficiency improvement is established.
 
-The API path `/api/audit` and database table `audit_events` are retained for compatibility. They provide **operation-event history**, not a complete accountability audit. Records contain event/object identifiers, time and state changes, but no authenticated actor identity, role or reason for a decision. They are ordinary database records, not append-only or tamper-evident evidence. Transactional persistence establishes that an accepted change and its event are stored together; it does not establish who acted or whether they were authorized. Rejected requests are not a comprehensive security log.
+The API route `/api/audit` and table `audit_events` store **operation-event history**: event and object identifiers, timestamps, and state changes. Accepted updates and their events are stored in the same transaction. The log does not identify an authenticated operator, establish authorization, or provide tamper-evident records; rejected requests are not comprehensively logged.
 
-Before a shared deployment, authentication, role authorization and server-derived actor identity are priorities, followed by explicit event semantics, access/retention controls and concurrency/failure tests. These capabilities are not implemented by the present documentation update.
+Authentication, role permissions, actor identity, and data-retention controls would be needed before shared deployment. The current application is intended for isolated use with fictional data.

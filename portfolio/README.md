@@ -1,17 +1,17 @@
 # Research Portfolio — Hong Zhan
 
-This is a static, dependency-free research showcase for three complementary projects. It contains `index.html`, `genai.html`, `masters.html`, `undergraduate.html`, `styles.css`, and a project-specific `systems-case-study.css`.
+Three case studies cover my AI-trust research, MSc dissertation, and recruitment system.
 
-## View
+## View the pages
 
-- **Static preview:** open `index.html` in a browser. All three case-study pages work without a backend.
-- **Integrated with the live recruiting app:** from the repository root, run `python run.py`, then open `http://127.0.0.1:8000/portfolio/` and use the **Explore interactive demo** link for the system at `/`.
-- **Deploying portfolio pages alone:** this directory can be hosted by a static web host; the separate recruiting API must be deployed independently or the app demo button must direct to instructions rather than a live service.
+- Open `index.html` for a static preview. The case studies do not need a backend.
+- For the Java application, run `docker compose up --build` from the repository root, then open `http://localhost:8000/portfolio/`. The recruitment workspace is at `http://localhost:8000/`.
+- The public [browser demo](https://ivyhongzhan.github.io/Ivyhongzhan/assets/recruitment-demo.html) is separate and stores fictional records locally; it does not connect to MySQL.
 
-## Provenance boundaries
+## Projects
 
-- `genai.html`: Summarizes the existing public GitHub/Zenodo research and avoids claiming that the pending manuscript was accepted or that strict full reproduction has passed.
-- `masters.html`: Based on the MSc CV, user-reported methods and a historical ethics application; **not** based on a recovered final dissertation. No interview data, fictional quotes or invented quantitative analysis are distributed. See `../docs/master_dissertation/METHODS_AND_EVIDENCE.md`.
-- `undergraduate.html`: Separates the 2021 capstone topic from the code implemented in 2026; this app is not represented as an original 2021 Git repository.
+- **AI trust (2026):** descriptive secondary analysis of released Reddit classifications. [Code, data-source documentation, and reproduction instructions](https://github.com/ivyhongzhan/genai-trust-reddit-analysis).
+- **MSc dissertation (2023):** 15 semi-structured interviews, NVivo-assisted thematic analysis, and social-media-post analysis. Participant materials remain private; the later codebook template is a 2026 example.
+- **Recruitment system:** a 2021 Spring Boot/MySQL capstone, including think-aloud testing with 8 participants, followed by a 2026 software reconstruction. The reconstruction has engineering tests but no new participant study.
 
-All portfolio pages are English-language. No Google Analytics, third-party fonts, JavaScript CDNs, trackers or account credentials are required.
+The pages use local styles and need no analytics, third-party scripts, or account credentials.
