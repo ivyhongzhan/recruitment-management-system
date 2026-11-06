@@ -31,6 +31,21 @@ The static HTML/CSS/JavaScript frontend is served by Spring Boot. API paths and 
 
 Filtering accepts `search`, `job_id`, and `stage`. The workflow has six stages: `applied → screening → interview → offer → hired`, with `rejected` allowed from every active stage. Stage updates require `expected_version`; stale requests and invalid transitions return HTTP 409. Email is normalized case-insensitively; a candidate can apply to multiple jobs, but duplicate applications to one job are rejected. A closed job accepts no new applications. Accepted job/application changes create audit records in the same transaction.
 
+## Workflow rules and scope
+
+The following reasons explain the 2026 demonstration design; they are not evidence of universal recruiting practice or a validated user requirement. Five ordered progress states plus one rejection outcome make six displayed stages.
+
+| Implemented rule | Design reason | Unsupported exception |
+| --- | --- | --- |
+| Applied → Screening → Interview → Offer → Hired; no skipping or backward moves | Makes each change explicit and the next action inspectable | Fast-track hiring, correction/backtracking and parallel stages |
+| Rejection from any active stage; Hired and Rejected are terminal | Preserves a simple final outcome without silently reopening it | Candidate withdrawal, offer declined and reopening a rejected application; these must not be relabelled as employer rejection |
+| One application per candidate email and job | Prevents duplicate records within this demo | Reapplication to the same job or separate recruitment cycles |
+| Interview is one stage | Keeps the overview compact | Multiple interview rounds and interview scheduling |
+| Closed jobs reject new applications; existing applications remain | Separates intake availability from existing workflow | Automatically cancelling active applications when a job closes |
+| Application updates require the current version | Detects stale edits | Automatic conflict merging or a multi-user approval workflow |
+
+A different operational setting may require additional states and explicit event types. The current model should be evaluated with recruiters before extending it; rejected must not stand in for every reason an application ends.
+
 ## Architecture
 
 ```text
@@ -61,7 +76,7 @@ mvn verify
 
 The supplied FastAPI/SQLite source is retained under `legacy-fastapi/` and `README_FASTAPI_BASELINE.md`, separate from the runnable Java module. Before migration, its integration suite passed **15/15** under Python 3.14. The original UI files are copied unchanged to `src/main/resources/static/`; the UX screenshots and portfolio pages are retained.
 
-The online portfolio Demo is a separate static GitHub Pages artifact. Its interactions use browser-local state that resets on reload; it is **not connected to this MySQL database** and is not a cloud-backed deployment. The public Demo is a UI preview only until it is deliberately connected to a deployed API.
+The online portfolio Demo is a separate static GitHub Pages artifact. Its interactions persist in browser localStorage until reset or cleared; it is **not connected to this MySQL database** and is not a cloud-backed deployment. The public Demo is a UI preview only until it is deliberately connected to a deployed API.
 
 ## Academic and project context
 
