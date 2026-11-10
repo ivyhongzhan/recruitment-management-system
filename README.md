@@ -84,6 +84,12 @@ For my **2021 BEng capstone**, I designed and implemented job posting, applicati
 
 The code in this repository is a **2026 reconstruction**, not recovered thesis source. The current interface and backend have engineering tests, but no new participant study has been conducted for this version. The case studies are in `portfolio/`.
 
+## Research analytics extension (Recruitment Lens, 2026)
+
+A separate [read-only browser demo](https://ivyhongzhan.github.io/Ivyhongzhan/assets/recruitment-lens.html) explores how recruitment stage-reach fractions, subgroup denominators, and event histories can be presented transparently. Its [self-contained HTML/CSS/JavaScript source and methodological limits](analytics-lens/README.md) are in `analytics-lens/`. The 360 records are entirely synthetic.
+
+This addition illustrates **HCI interface choices**, **computational descriptive analysis**, and **information-systems provenance**. It does **not** use this application's Java API or MySQL database, conduct hiring decisions, or establish an empirical fairness finding.
+
 ## Repository contents
 
 - `src/main/java`: API, persistence entities, repositories, frontend routes, synthetic seed
