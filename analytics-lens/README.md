@@ -33,3 +33,30 @@ All **360 records are synthetic**; the standalone page embeds them and works wit
 **Important:** this analytics extension is distinct from the operational ATS demo and from the Java/MySQL integration tests elsewhere in the repository. It is also distinct from the **2021 capstone**, whose original code and evaluation materials were not independently inspected when developing this extension.
 
 **Project author:** Hong Zhan.
+
+## Readable modular source and local checks
+
+The published [standalone version](index.html) contains its own CSS, JavaScript and fixed synthetic JSON, for opening without an HTTP server. The equivalent modules are provided separately for code review:
+
+- [web/index.html](web/index.html) — HTML semantics and accessible controls.
+- [web/styles.css](web/styles.css) — responsive layout.
+- [web/app.mjs](web/app.mjs) — filtering, interaction, drill-down and CSV export.
+- [web/core.mjs](web/core.mjs) — pure descriptive metrics with explicit denominators.
+- [web/data/synthetic_applications.json](web/data/synthetic_applications.json) — fixed synthetic fixtures.
+- [web/core.test.mjs](web/core.test.mjs) — Node built-in tests of descriptive logic.
+
+Run locally from the repository root:
+
+```bash
+cd analytics-lens/web
+python -m http.server 8000
+# open http://localhost:8000
+```
+
+Run code checks (Node 18+):
+
+```bash
+node --test analytics-lens/web/core.test.mjs
+```
+
+These tests evaluate computational behavior, **not** the usability of the interface. The standalone HTML's inline implementation and the modular source are semantically equivalent. All records are invented.

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#132a33" />
+  <meta name="description" content="Recruitment Lens: a research-oriented, fully synthetic hiring workflow transparency prototype by Hong Zhan." />
+  <title>Recruitment Lens · Workflow Transparency Lab</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<div class="layout">
+  <aside class="sidebar" aria-label="Primary navigation">
+    <a class="brand" href="#overview" aria-label="Recruitment Lens home"><span class="brand-mark">R<span class="brand-dot">.</span></span><span>Recruitment<br /><strong>Lens</strong></span></a>
+    <div class="side-kicker">WORKSPACE / 01</div>
+    <nav class="nav-links">
+      <a href="#overview" class="nav-link active"><span class="nav-symbol">◫</span> Overview</a>
+      <a href="#comparisons" class="nav-link"><span class="nav-symbol">▥</span> Channel comparisons</a>
+      <a href="#explorer" class="nav-link"><span class="nav-symbol">⌕</span> Application explorer</a>
+      <a href="#methods" class="nav-link"><span class="nav-symbol">◇</span> Methods &amp; limitations</a>
+    </nav>
+    <div class="sidebar-bottom">
+      <div class="side-status"><span class="pulse"></span><span>READ-ONLY RESEARCH DEMO</span></div>
+      <p>No real applicants.<br />No automated hiring decisions.</p>
+      <div class="side-credit">PROJECT BY <strong>HONG ZHAN</strong><br />2026 · Prototype v0.1</div>
+    </div>
+  </aside>
+  <main class="main" id="overview">
+    <header class="topbar">
+      <div class="breadcrumb">RECRUITMENT LENS <span>/</span> RESEARCH DASHBOARD</div>
+      <div class="header-meta"><span class="tiny-dot"></span> Synthetic dataset <span class="divider"></span> Fall 2027 portfolio project</div>
+    </header>
+    <div class="page-content">
+      <section class="hero">
+        <div class="eyebrow"><span class="eyebrow-line"></span> HUMAN-CENTERED INFORMATION SYSTEMS</div>
+        <div class="hero-main"><div><h1>Make the workflow<br /><em>legible.</em></h1><p class="hero-sub">An interactive research prototype for exploring recruitment funnels, comparing descriptive patterns, and inspecting the assumptions behind every metric.</p></div><div class="hero-right"><span class="hero-icon">↗</span><div>01 / 03<br /><strong>INTERACT · INTERROGATE · VERIFY</strong></div></div></div>
+        <div class="hero-footer"><span class="lozenge">● 100% synthetic records</span><span class="hero-purpose">HCI × COMPUTATIONAL SOCIAL SCIENCE × INFORMATION SYSTEMS</span></div>
+      </section>
+      <section class="filters" aria-label="Dataset filters">
+        <div class="section-title-row"><div><span class="tiny-caption">01 — ANALYSIS SCOPE</span><h2>Choose your view</h2></div><button class="text-button" type="button" id="clear-filters">↺ Reset filters</button></div>
+        <div class="filter-row">
+          <label>Department<select id="department" aria-label="Filter department"><option value="">All departments</option></select></label>
+          <label>Source channel<select id="channel" aria-label="Filter source channel"><option value="">All channels</option></select></label>
+          <label>Application cohort<select id="cohort" aria-label="Filter application cohort"><option value="">All cohorts</option></select></label>
+          <span class="filter-count" aria-live="polite"><strong id="filter-record-count">—</strong><small>records in view</small></span>
+        </div>
+      </section>
+      <section class="stats-row" aria-label="Summary statistics">
+        <article class="stat-card"><div class="stat-label">APPLICATIONS <span>01</span></div><div class="stat-value" id="metric-applications">—</div><div class="stat-note">Denominator for the current view</div></article>
+        <article class="stat-card"><div class="stat-label">SCREENING REACHED <span>02</span></div><div class="stat-value" id="metric-screening">—</div><div class="stat-note"><span id="metric-screening-n">—</span> of current applications</div></article>
+        <article class="stat-card"><div class="stat-label">INTERVIEW REACHED <span>03</span></div><div class="stat-value" id="metric-interview">—</div><div class="stat-note"><span id="metric-interview-n">—</span> of current applications</div></article>
+        <article class="stat-card dark-stat"><div class="stat-label">OFFER REACHED <span>04</span></div><div class="stat-value" id="metric-offer">—</div><div class="stat-note"><span id="metric-offer-n">—</span> of current applications</div></article>
+      </section>
+      <section class="section-grid">
+        <article class="panel funnel-panel">
+          <div class="section-title-row"><div><span class="tiny-caption">02 — STAGE COVERAGE</span><h2>Where applications progressed</h2></div><span class="panel-tag">DESCRIPTIVE ONLY</span></div>
+          <p class="panel-desc">Each bar shows the number of applications that <strong>reached at least</strong> that stage. Bars are not the number currently at that stage.</p>
+          <div class="funnel" id="funnel" aria-live="polite"></div>
+          <div class="method-footnote"><strong>Reading the chart:</strong> all percentages use the <span id="denom">—</span> applications in the selected view as their denominator. Stage transitions and completion times were simulated.</div>
+        </article>
+        <aside class="panel interpret-panel"><div class="section-title-row"><div><span class="tiny-caption">RESEARCH INTEGRITY</span><h2>Interpret with care.</h2></div><span class="asterisk">✳</span></div><div class="integrity-item"><div class="integrity-number">01</div><div><h3>No real applicant data</h3><p>Every record and stage event was generated using a fixed random seed.</p></div></div><div class="integrity-item"><div class="integrity-number">02</div><div><h3>Denominators change with filters</h3><p>A filtered reach rate describes only the selected records, not the entire dataset.</p></div></div><div class="integrity-item"><div class="integrity-number">03</div><div><h3>Differences are not effects</h3><p>Observed channel gaps here are intentionally fabricated. They cannot establish bias, fairness, or causality.</p></div></div><a href="#methods" class="method-link">Read data and analysis methods <span>↗</span></a></aside>
+      </section>
+      <section class="panel compare-panel" id="comparisons"><div class="section-title-row"><div><span class="tiny-caption">03 — CHANNEL-LEVEL DESCRIPTIVES</span><h2>Compare, then investigate</h2></div><span class="panel-tag">CLICK A ROW TO FILTER</span></div><p class="panel-desc">Within each source channel, compare the proportion of applicants reaching an interview or offer. Smaller samples and simulated differences limit interpretation.</p><div class="table-scroll"><table class="comparison-table"><thead><tr><th scope="col">APPLICATION SOURCE</th><th scope="col">APPLICANTS</th><th scope="col">INTERVIEW REACHED</th><th scope="col">OFFER REACHED</th><th scope="col">DISTRIBUTION</th></tr></thead><tbody id="channel-body"></tbody></table></div><div class="table-help">Each rate uses the channel's own application count as its denominator. “N/A” means no records in that channel after filtering.</div></section>
+      <section class="panel explorer-panel" id="explorer"><div class="section-title-row"><div><span class="tiny-caption">04 — RECORD-LEVEL EXPLORER</span><h2>Follow a synthetic application</h2></div><button class="outline-button" id="export-btn" type="button">↓ Export filtered CSV</button></div><p class="panel-desc">Inspect stage-event timelines behind the aggregates. Candidate IDs are synthetic; no names or personal information are used.</p><label class="search-field"><span>⌕</span><input id="search" type="search" placeholder="Search ID, role, or channel…" aria-label="Search application records" /></label><div class="table-scroll"><table class="records-table"><thead><tr><th>ID</th><th>ROLE / DEPARTMENT</th><th>SOURCE</th><th>FURTHEST STAGE</th><th>STATUS</th><th>INSPECT</th></tr></thead><tbody id="records-body"></tbody></table></div><div class="table-bottom"><span id="record-page-count" aria-live="polite"></span><div class="paging"><button type="button" id="prev-page">← Previous</button><button type="button" id="next-page">Next →</button></div></div></section>
+      <section class="methods-grid" id="methods"><div class="methods-intro"><span class="tiny-caption">05 — RESEARCH / ENGINEERING NOTES</span><h2>The assumptions<br />are part of<br /><em>the interface.</em></h2><p>A useful analytical tool should allow readers to question a measure—not just view a polished chart.</p></div><div class="method-cards"><article><span class="method-num">A / DATA PROVENANCE</span><h3>Fixed-seed simulation</h3><p>360 synthetic applications generated by <code>data/generate.py</code> (seed <code>20261105</code>), across 4 departments, 5 source channels, and 4 cohorts. All distributions are deliberately invented.</p></article><article><span class="method-num">B / METRIC DEFINITION</span><h3>Ever-reached, not conversion</h3><p>A record counts as reaching stage S when its highest recorded stage is S or later. Rates divide by applications in the current subset; these are retrospective stage-reach fractions, <em>not</em> individual selection probabilities.</p></article><article><span class="method-num">C / DESIGN STATUS</span><h3>Prototype, not validated product</h3><p>Interaction flows support exploration and drill-down. No participant study, user testing, accessibility audit, fairness evaluation, or predictive model is claimed. Candidate decisions are not automated.</p></article><article><span class="method-num">D / SYSTEM IMPLEMENTATION</span><h3>Inspectible by design</h3><p>Static site with a fully documented read-only FastAPI + SQLite API. Data generation, filtering, endpoint tests, and browser-compatible aggregation logic are included in the source package.</p></article></div></section>
+      <footer class="footer"><span>RECRUITMENT LENS · HONG ZHAN · 2026</span><span>RESEARCH DEMO — SYNTHETIC DATA ONLY</span></footer>
+    </div>
+  </main>
+</div>
+<div id="drawer-overlay" class="drawer-overlay" hidden></div><aside id="detail-drawer" class="detail-drawer" role="dialog" aria-modal="true" aria-labelledby="detail-title" hidden><button type="button" id="close-drawer" class="drawer-close" aria-label="Close application details">✕</button><div class="tiny-caption">SYNTHETIC EVENT HISTORY</div><h2 id="detail-title">Application details</h2><div id="detail-content"></div></aside>
+<div id="load-error" class="load-error" role="alert" hidden>Could not load demo data. Serve the <code>web/</code> directory over HTTP, or run <code>uvicorn backend.main:app</code>.</div>
+<script type="module" src="./app.mjs"></script>
+</body>
+</html>

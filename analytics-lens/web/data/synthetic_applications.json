@@ -1,0 +1,8475 @@
+[
+  {
+    "id": "SYN-0001",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-16",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0002",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-22",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-05"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-14"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0003",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-22",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0004",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-09",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0005",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-10",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0006",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0007",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-17",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-20"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-04"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-02-09"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-02-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0008",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-04",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0009",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-10"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0010",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-19",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-27"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0011",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-18",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-26"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0012",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-14",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0013",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-19",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-21"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-07-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0014",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-03",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0015",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-21",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0016",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-25",
+    "highest_stage_reached": "Interview",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-07-01"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-07-11"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-07-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0017",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-03",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0018",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0019",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-08",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-23"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0020",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-09",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0021",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-16",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-30"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-05"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-09-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0022",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-18",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-25"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-05"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-01-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0023",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-18",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0024",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-30",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0025",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-12",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0026",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0027",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-27",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0028",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-22",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0029",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-26",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-03"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0030",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-16",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-22"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0031",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-23",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-28"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-01"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0032",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-22",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-07"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0033",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0034",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-23",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0035",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-04",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-15"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0036",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-19",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0037",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-15",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-15"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0038",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-28",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [      {
+        "stage": "Applied",
+        "date": "2025-10-28"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-11"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-26"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-12-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0039",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-20",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-25"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0040",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-18",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-04"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0041",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-10",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-15"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0042",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-10",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-10"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0043",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-04",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0044",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-11",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0045",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-05",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-07"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-07-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0046",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-21",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-29"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-08"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-12-14"
+      },
+      {
+        "stage": "Hired",
+        "date": "2025-12-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0047",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-28",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0048",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-18",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0049",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-28",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-28"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0050",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-07",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-07"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-12-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0051",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-25",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0052",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-22",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0053",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-21",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0054",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-08",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-17"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0055",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-29",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-29"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0056",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-16",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-25"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0057",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-18",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0058",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-23",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-28"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-10"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-01-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0059",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0060",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-17",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0061",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-09",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-24"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0062",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-02",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-18"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0063",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-10",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-13"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-22"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-02-24"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-03-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0064",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-02",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0065",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-19",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-19"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-09-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0066",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-27",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0067",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-22",
+    "highest_stage_reached": "Interview",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-26"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-09"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-02-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0068",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-18",
+    "highest_stage_reached": "Interview",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-20"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-23"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-05-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0069",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-13",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0070",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-12",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-22"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0071",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-14",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0072",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-07",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0073",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-07",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0074",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-25",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0075",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-24"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0076",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-07",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0077",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-19",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-22"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-24"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-08-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0078",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-03",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-18"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0079",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-24",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-06"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0080",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-03",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [      {
+        "stage": "Applied",
+        "date": "2026-05-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-11"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0081",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-13",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-17"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0082",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-24",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0083",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-10",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-22"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0084",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-05",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0085",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-25",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-07"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-21"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-11-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0086",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-02",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-07"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-11"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-10-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0087",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-16",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-30"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-13"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-04-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0088",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0089",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-08",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-12"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-14"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0090",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-18",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0091",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-02",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0092",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-07",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0093",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-15",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-15"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-16"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0094",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-02",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0095",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0096",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-03",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0097",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-21",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-31"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-11"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-09-14"
+      },
+      {
+        "stage": "Hired",
+        "date": "2025-09-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0098",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-21",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0099",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-15",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-15"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-30"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0100",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-07",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-16"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0101",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-01",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-08"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-09-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0102",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-04",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-04"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0103",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-05",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0104",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-26",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-01"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0105",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-19",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-26"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0106",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-26",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0107",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-27",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-09"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-22"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-02-25"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-03-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0108",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-09",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-23"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0109",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-07",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-14"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0110",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-25"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0111",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-08",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-16"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0112",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-02",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0113",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-21",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-30"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0114",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-06",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-06"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-19"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0115",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-26",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-01"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0116",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0117",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-19",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-02"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-10-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0118",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-25",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-06"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0119",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-31",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-31"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0120",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-03"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-06"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0121",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-29",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-29"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-12"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-28"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-09-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0122",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-01",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [      {
+        "stage": "Applied",
+        "date": "2025-12-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-09"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0123",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-13",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-21"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0124",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-20",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-03"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0125",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0126",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-20",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0127",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-02",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0128",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-11",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-11"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-06-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0129",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-07",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0130",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-31"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-04"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0131",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-04",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0132",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-01",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-20"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-06-04"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0133",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-19",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0134",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-31",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-31"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-06"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0135",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-04",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0136",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-15",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-15"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0137",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-25",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-26"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-11-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0138",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0139",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-08",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0140",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-08",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-20"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-24"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-06-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0141",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-12",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0142",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0143",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0144",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-24",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-24"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-05-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0145",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-27",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0146",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-29"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0147",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-03",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0148",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-18",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0149",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-01",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-07"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-08-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0150",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-16",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-24"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-27"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-12-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0151",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-16",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0152",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-18",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0153",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-07",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0154",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-10",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-21"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0155",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-22",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0156",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-30",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-30"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-04"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0157",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0158",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0159",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-19",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-03"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0160",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-11",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-16"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-24"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-06-06"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0161",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-07",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-13"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0162",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0163",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-02",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-16"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0164",    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-10",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-29"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-07-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-07-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0165",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-04",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0166",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-04",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-19"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-10-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0167",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0168",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-15",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-15"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0169",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-06",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-06"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0170",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-26",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-09"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-15"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-12-17"
+      },
+      {
+        "stage": "Hired",
+        "date": "2025-12-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0171",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-07",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0172",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-08",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0173",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-16",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-26"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-06"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-10-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0174",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-05",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-18"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0175",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-22",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-20"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-03-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0176",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-30",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0177",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-16",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0178",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-04",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0179",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-05",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0180",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-15",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-15"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-29"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-07-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0181",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-12",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0182",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-28",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-28"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0183",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-17",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0184",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-08",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0185",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-14",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-23"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0186",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-01"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0187",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-11",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-13"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-22"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-04-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0188",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0189",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-17",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-28"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0190",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0191",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-23",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0192",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-25",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-28"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0193",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-13",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0194",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-08",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0195",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0196",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-01"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0197",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-03",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0198",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-04",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0199",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-07",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-10"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0200",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0201",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-12",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-17"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-07-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0202",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-29",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0203",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-09",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0204",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-21",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0205",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-15",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-15"
+      },      {
+        "stage": "Closed",
+        "date": "2025-09-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0206",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-06",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-06"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-18"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0207",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-05",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0208",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0209",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-31",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-31"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-26"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0210",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-26",
+    "highest_stage_reached": "Interview",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-11"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-23"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0211",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-19",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-04"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0212",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-10",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0213",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-10",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-19"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-06"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0214",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-03",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0215",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-23",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0216",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-22",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-30"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-07-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-07-16"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0217",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-31",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-31"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0218",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-13",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0219",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-24",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-02"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0220",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-15",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-15"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0221",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-26",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-06"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-16"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-08-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0222",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-19",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0223",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-22",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-24"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-29"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-04-14"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-04-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0224",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-14",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-17"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0225",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-23",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0226",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-29",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-29"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-07"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-11-21"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-11-27"
+      },
+      {
+        "stage": "Hired",
+        "date": "2025-12-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0227",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-05",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0228",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-01",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0229",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0230",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-25",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0231",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-27",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0232",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-03",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0233",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-28",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-28"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-08-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0234",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-21",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0235",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-08",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0236",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-07",
+    "highest_stage_reached": "Screening",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-09"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-04-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0237",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-09",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0238",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-23",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0239",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-05",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0240",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-21",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0241",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-08",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-09-18"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-09-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0242",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-16",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0243",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-23",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0244",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-07-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-07-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0245",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-08",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0246",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-09",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0247",    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-14",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0248",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-28",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-07-02"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0249",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-06",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-06"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-20"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-07-29"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-08-11"
+      },
+      {
+        "stage": "Hired",
+        "date": "2025-08-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0250",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-11",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0251",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-30",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-30"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-05"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-02-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0252",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-07",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-16"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-28"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-06-09"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0253",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-24",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-09"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-11"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-10-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0254",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-20",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0255",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-17",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0256",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-12",
+    "highest_stage_reached": "Interview",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-25"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-09"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0257",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-07",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0258",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-16",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-16"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-18"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0259",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-15",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-15"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-02-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0260",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-20",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0261",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-14",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0262",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-31",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-31"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0263",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-13",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0264",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-22",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0265",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-23",
+    "highest_stage_reached": "Offer",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-04"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-15"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-08-29"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2025-09-04"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0266",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-01",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-16"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-10-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0267",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-21",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-31"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0268",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-08",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0269",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-09",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0270",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-05",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0271",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-21",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0272",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0273",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0274",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-06",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-06"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0275",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-24",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0276",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-18",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-18"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-07-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-07-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0277",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-10",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0278",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-22",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0279",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Campus",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-18",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0280",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-28",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0281",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0282",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-11",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0283",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-17",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0284",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-10",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0285",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-08",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0286",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-23",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-23"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0287",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-21",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-21"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0288",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-08",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-19"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0289",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-12",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-12"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-23"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-08"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0290",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-31",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-31"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-10"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0291",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-12",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [      {
+        "stage": "Applied",
+        "date": "2026-01-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0292",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-01",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-01"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-08"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0293",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-20",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0294",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-14",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-14"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-11-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0295",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-20",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-31"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0296",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-16",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0297",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-04",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0298",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-23",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-23"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-08"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-16"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0299",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-13",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0300",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-08",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-12"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-04-28"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0301",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-08",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0302",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-07",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-07"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-22"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0303",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-28",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-28"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0304",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-25",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-25"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-07-06"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0305",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0306",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-30",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-30"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0307",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-13",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0308",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-24",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-06"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-05-13"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-25"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0309",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-22",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-29"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-30"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0310",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-26",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-26"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0311",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-10",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-10"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-03-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0312",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-17",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-20"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-24"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0313",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-25",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0314",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Careers page",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0315",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-03",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0316",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-09",
+    "highest_stage_reached": "Hired",
+    "status": "Hired",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-23"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-07-02"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-07-10"
+      },
+      {
+        "stage": "Hired",
+        "date": "2026-07-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0317",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-03",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-19"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-03"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0318",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-09",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-09"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0319",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-24",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-26"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-06"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0320",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-10",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-10"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-18"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0321",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-12",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0322",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-21",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-21"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0323",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-08",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-10"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0324",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-14",
+    "highest_stage_reached": "Applied",
+    "status": "Withdrawn",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-14"
+      },
+      {
+        "stage": "Withdrawn",
+        "date": "2026-06-26"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0325",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Campus",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-04",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-06"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0326",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-12-14",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-12-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0327",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-02",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-02"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-02-16"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0328",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Campus",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-24",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-24"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-07-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0329",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Referral",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-03",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0330",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-08",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-08"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-11"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0331",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-04",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-04"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-16"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-02-05"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0332",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-17",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0333",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Careers page",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-13",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-13"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-26"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-07-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0334",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Community",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-29",
+    "highest_stage_reached": "Offer",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-29"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-06"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-12-21"
+      },
+      {
+        "stage": "Offer",
+        "date": "2025-12-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-01-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0335",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Referral",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-11",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [      {
+        "stage": "Applied",
+        "date": "2026-03-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-18"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-24"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0336",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Careers page",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-06-12",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0337",
+    "department": "Engineering",
+    "role": "Frontend Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-19",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0338",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-11",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-11"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-25"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0339",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-02-15",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-02-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0340",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-22",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-22"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0341",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-19",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-19"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-09-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-09-15"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0342",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-09",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-09"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-14"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0343",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-05"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-12"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0344",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-02",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-11"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0345",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-09-22",
+    "highest_stage_reached": "Applied",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-09-22"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0346",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Referral",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-03",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-03"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-11-17"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0347",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-01",
+    "highest_stage_reached": "Offer",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-15"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-01-23"
+      },
+      {
+        "stage": "Offer",
+        "date": "2026-01-29"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0348",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-25",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-25"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-05-07"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0349",
+    "department": "Engineering",
+    "role": "Data Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-29",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-29"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-07"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-18"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0350",
+    "department": "Product",
+    "role": "Product Designer",
+    "channel": "Professional network",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-03",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-03"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-09"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0351",
+    "department": "Research",
+    "role": "Research Operations",
+    "channel": "Careers page",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-01-27",
+    "highest_stage_reached": "Screening",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-01-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-01-31"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0352",
+    "department": "Operations",
+    "role": "Operations Associate",
+    "channel": "Referral",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-30",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-30"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-06-10"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-06-12"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-20"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0353",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Community",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-08-05",
+    "highest_stage_reached": "Interview",
+    "status": "In progress",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-08-05"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-08-09"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-08-23"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0354",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-10-01",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-10-01"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-10-06"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-10-17"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-10-19"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0355",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Professional network",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-14",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-14"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-03-19"
+      },
+      {
+        "stage": "Interview",
+        "date": "2026-03-27"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-03-28"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0356",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Professional network",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-04-17",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-04-17"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-27"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0357",
+    "department": "Engineering",
+    "role": "QA Engineer",
+    "channel": "Professional network",
+    "cohort": "2025-Q3",
+    "submitted_at": "2025-07-20",
+    "highest_stage_reached": "Interview",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-07-20"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-07-24"
+      },
+      {
+        "stage": "Interview",
+        "date": "2025-07-30"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-08-01"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0358",
+    "department": "Product",
+    "role": "Product Analyst",
+    "channel": "Campus",
+    "cohort": "2025-Q4",
+    "submitted_at": "2025-11-30",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2025-11-30"
+      },
+      {
+        "stage": "Screening",
+        "date": "2025-12-04"
+      },
+      {
+        "stage": "Closed",
+        "date": "2025-12-14"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0359",
+    "department": "Research",
+    "role": "UX Researcher",
+    "channel": "Community",
+    "cohort": "2026-Q1",
+    "submitted_at": "2026-03-27",
+    "highest_stage_reached": "Screening",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-03-27"
+      },
+      {
+        "stage": "Screening",
+        "date": "2026-04-02"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-04-13"
+      }
+    ]
+  },
+  {
+    "id": "SYN-0360",
+    "department": "Operations",
+    "role": "Recruiting Coordinator",
+    "channel": "Community",
+    "cohort": "2026-Q2",
+    "submitted_at": "2026-05-21",
+    "highest_stage_reached": "Applied",
+    "status": "Closed",
+    "events": [
+      {
+        "stage": "Applied",
+        "date": "2026-05-21"
+      },
+      {
+        "stage": "Closed",
+        "date": "2026-06-01"
+      }
+    ]
+  }
+]
+
