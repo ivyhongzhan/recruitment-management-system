@@ -43,3 +43,8 @@ jobs:
         run: bash scripts/verify-restart-persistence.sh
       - name: Check carried-forward browser script syntax
         run: node --check src/main/resources/static/app.js
+      - name: Verify Recruitment Lens module syntax and descriptive tests
+        run: |
+          node --check analytics-lens/web/app.mjs
+          node --check analytics-lens/web/core.mjs
+          node --test analytics-lens/web/core.test.mjs
