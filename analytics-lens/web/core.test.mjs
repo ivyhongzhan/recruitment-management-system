@@ -6,7 +6,7 @@ const records = JSON.parse(fs.readFileSync(new URL('./data/synthetic_application
 
 test('data is 360 synthetic records with no names or emails', () => {
   assert.equal(records.length, 360);
-  assert.ok(records.every(r => typeof r.id === 'string' && r.id.startsWith('APP-')));
+  assert.ok(records.every(r => typeof r.id === 'string' && r.id.startsWith('SYN-')));
   assert.ok(records.every(r => !('name' in r) && !('email' in r)));
 });
 test('funnel monotonically decreases by reached stage', () => {
